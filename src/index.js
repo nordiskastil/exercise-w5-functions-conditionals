@@ -16,7 +16,7 @@ const theCoders = (driver, navigator) => {
   Pass in only ONE name when you call the function and see what happens.
   (HINT, you should get undefined...)
   */
-  
+  theCoders("jennie");
   /*
   3) 
   create a function that checks which name is the longest when comparing the coders 
